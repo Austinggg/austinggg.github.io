@@ -17,7 +17,9 @@ Research appointments appear in both `experience.yml` and `cv.yml`; update both 
 
 ## Preview locally
 
-With Ruby 3.3 or later and Node.js installed:
+In this workspace, run `./preview.ps1` to serve the downloaded GitHub Actions build at `http://127.0.0.1:4000/`. This preview is a snapshot; source edits need a rebuild.
+
+To rebuild locally, use Ruby 3.3 or later (Ruby+Devkit on Windows) and Node.js:
 
 ```sh
 bundle install
@@ -25,7 +27,7 @@ npm ci
 bundle exec jekyll serve --host 127.0.0.1 --port 4000
 ```
 
-Open `http://127.0.0.1:4000/`. In this workspace, `./preview.ps1` also supports the portable Ruby runtime in `../tmp/ruby-runtime`.
+Open `http://127.0.0.1:4000/`. The portable Ruby runtime in this workspace has no native-extension toolchain, so the full Jekyll build was validated on GitHub Actions. To use `./preview.ps1 -Rebuild`, first provide Ruby+Devkit and a complete bundle.
 
 ## GitHub Pages
 
