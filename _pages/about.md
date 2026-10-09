@@ -12,6 +12,8 @@ latest_posts:
   enabled: false
 ---
 
+**I am seeking PhD opportunities starting in Fall 2027.**
+
 I study **LLM-based agents** that assist humans with knowledge-intensive tasks. My research focuses on **agent workflows** and **human–AI alignment**, with the goal of advancing scientific automation through effective human–AI interaction.
 
 I am a Research Assistant at **The Hong Kong Polytechnic University**, advised by [Prof. Songlin Xu](https://songlinxu.com). Previously, I worked with [Prof. Menglin Yang](https://yangmenglinsite.github.io/) at The Hong Kong University of Science and Technology (Guangzhou), and with Prof. Wei Zhang and Prof. Kang Li at the West China Biomedical Big Data Center, West China Hospital.
