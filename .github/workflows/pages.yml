@@ -24,6 +24,8 @@ jobs:
           bundler-cache: true
       - name: Configure Pages
         uses: actions/configure-pages@v5
+      - name: Audit al-folio configuration
+        run: bundle exec al-folio upgrade audit --no-fail
       - name: Build Jekyll site
         env:
           JEKYLL_ENV: production
