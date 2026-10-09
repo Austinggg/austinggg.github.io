@@ -10,10 +10,10 @@ An English academic website built from [al-folio](https://github.com/alshedivat/
 | Research interests     | `_pages/research.md`   |
 | Research experience    | `_data/experience.yml` |
 | Online CV              | `_data/cv.yml`         |
-| Email and GitHub links | `_data/socials.yml`    |
+| Social profile links  | `_data/socials.yml`    |
 | Site metadata and URL  | `_config.yml`          |
 
-Research appointments appear in both `experience.yml` and `cv.yml`; update both when a position changes. The dates currently follow `../overleaf-resume/main.tex`, including the remote internship marked as ongoing. The homepage profile image is supplied by the site owner. No Google Scholar ID is configured, and the original CV PDF is not published because it contains publications.
+Research appointments appear in both `experience.yml` and `cv.yml`; update both when a position changes. The dates currently follow `../overleaf-resume/main.tex`, including the remote internship marked as ongoing. The homepage profile image and Google Scholar profile are supplied by the site owner. The original CV PDF is not published because it contains publications.
 
 ## Preview locally
 
