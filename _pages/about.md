@@ -3,7 +3,10 @@ layout: about
 title: about
 permalink: /
 subtitle: Research Assistant · The Hong Kong Polytechnic University
-profile: false
+profile:
+  align: right
+  image: Austin.jpg
+  image_circular: false
 selected_papers: false
 social: true
 announcements:
