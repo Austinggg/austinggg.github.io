@@ -12,7 +12,7 @@ nav_order: 2
 ## {{ entry.company }}
 
 **{{ entry.position }}** · {{ entry.location }}  
-{{ entry.start_date | date: "%b %Y" }} — {% if entry.end_date == 'present' %}Present{% else %}{{ entry.end_date | date: "%b %Y" }}{% endif %}
+{{ entry.start_date | append: '-01' | date: "%b %Y" }} — {% if entry.end_date == 'present' %}Present{% else %}{{ entry.end_date | append: '-01' | date: "%b %Y" }}{% endif %}
 
 {{ entry.summary }}
 
