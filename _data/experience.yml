@@ -1,0 +1,40 @@
+- company: The Hong Kong Polytechnic University
+  position: Research Assistant
+  location: Hong Kong, China
+  start_date: 2026-10
+  end_date: present
+  summary: Advised by Prof. Songlin Xu.
+  highlights:
+    - Human–AI alignment; AutoResearch.
+- company: The Hong Kong Polytechnic University
+  position: Research Intern (Remote)
+  location: Remote
+  start_date: 2026-03
+  end_date: present
+  summary: Advised by Prof. Songlin Xu.
+  highlights:
+    - Human–AI alignment; AutoResearch.
+- company: The Hong Kong University of Science and Technology (Guangzhou)
+  position: Research Assistant
+  location: Guangzhou, China
+  start_date: 2026-06
+  end_date: 2026-10
+  summary: Advised by Prof. Menglin Yang in DIGAI Lab.
+  highlights:
+    - Agent workflows; AutoResearch.
+- company: West China Biomedical Big Data Center, West China Hospital
+  position: Research Intern
+  location: Chengdu, China
+  start_date: 2025-05
+  end_date: 2026-03
+  summary: Advised by Prof. Wei Zhang and Prof. Kang Li.
+  highlights:
+    - Medical AI; knowledge graphs.
+- company: Sichuan University
+  position: Undergraduate Researcher
+  location: Chengdu, China
+  start_date: 2024-09
+  end_date: 2026-03
+  summary: Advised by Prof. Yong Zhao.
+  highlights:
+    - Agent workflows; recommendation algorithms; blockchain.

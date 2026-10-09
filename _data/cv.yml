@@ -1,0 +1,108 @@
+cv:
+  name: Yuyang Cheng
+  label: Research Assistant
+  email: yuyangc125@gmail.com
+  location: Hong Kong
+  image: ""
+  summary: I study LLM-based agents for knowledge-intensive tasks, focusing on agent
+    workflows and human–AI alignment.
+  social_networks:
+    - network: GitHub
+      username: Austinggg
+  sections:
+    Education:
+      - institution: Sichuan University
+        location: Chengdu, China
+        area: Cybersecurity
+        studyType: Bachelor
+        start_date: 2022-09
+        end_date: 2026-06
+        highlights:
+          - "GPA: 3.6/4.0"
+          - "IELTS: 7.0"
+    Experience:
+      - company: The Hong Kong Polytechnic University
+        position: Research Assistant
+        location: Hong Kong, China
+        start_date: 2026-10
+        end_date: present
+        summary: Advised by Prof. Songlin Xu.
+        highlights:
+          - Human–AI alignment; AutoResearch.
+      - company: The Hong Kong Polytechnic University
+        position: Research Intern (Remote)
+        location: Remote
+        start_date: 2026-03
+        end_date: present
+        summary: Advised by Prof. Songlin Xu.
+        highlights:
+          - Human–AI alignment; AutoResearch.
+      - company: The Hong Kong University of Science and Technology (Guangzhou)
+        position: Research Assistant
+        location: Guangzhou, China
+        start_date: 2026-06
+        end_date: 2026-10
+        summary: Advised by Prof. Menglin Yang in DIGAI Lab.
+        highlights:
+          - Agent workflows; AutoResearch.
+      - company: West China Biomedical Big Data Center, West China Hospital
+        position: Research Intern
+        location: Chengdu, China
+        start_date: 2025-05
+        end_date: 2026-03
+        summary: Advised by Prof. Wei Zhang and Prof. Kang Li.
+        highlights:
+          - Medical AI; knowledge graphs.
+      - company: Sichuan University
+        position: Undergraduate Researcher
+        location: Chengdu, China
+        start_date: 2024-09
+        end_date: 2026-03
+        summary: Advised by Prof. Yong Zhao.
+        highlights:
+          - Agent workflows; recommendation algorithms; blockchain.
+    Research Interests:
+      - name: Agentic AI
+        keywords:
+          - Agent workflows
+          - Human–AI interaction
+          - Human–AI alignment
+          - Scientific automation
+    Skills:
+      - name: Programming
+        keywords:
+          - Python
+          - C/C++
+          - Java
+          - SQL
+      - name: AI and agent frameworks
+        keywords:
+          - PyTorch
+          - Hugging Face
+          - AutoGen
+          - LangGraph
+          - LangChain
+      - name: Knowledge and reasoning
+        keywords:
+          - Neo4j
+          - RAG pipelines
+          - Knowledge graphs
+      - name: Development tools
+        keywords:
+          - Git
+          - Docker
+          - Linux
+          - LaTeX
+    Awards:
+      - title: Finalist, Mathematical Contest in Modeling (MCM)
+        date: "2025"
+      - title: Provincial Second Prize, China Undergraduate Mathematical Contest in
+          Modeling (CUMCM)
+        date: "2024"
+      - title: First-Class Scholarship
+        date: "2024"
+        awarder: School of Cyber Science and Engineering, Sichuan University
+        summary: Awarded in 2023 and 2024.
+      - title: Outstanding Student
+        date: "2023"
+        awarder: Sichuan University
