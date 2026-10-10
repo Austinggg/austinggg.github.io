@@ -10,6 +10,7 @@ An English academic website built from [al-folio](https://github.com/alshedivat/
 | Research experience    | `_data/cv.yml`      |
 | Archived CV data       | `_data/cv.yml`      |
 | Links below the avatar | `_pages/about.md`   |
+| Gold theme palette     | `_pages/about.md`   |
 | Social metadata        | `_data/socials.yml` |
 | Site metadata and URL  | `_config.yml`       |
 

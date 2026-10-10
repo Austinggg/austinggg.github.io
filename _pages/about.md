@@ -25,6 +25,22 @@ latest_posts:
 ---
 
 <style>
+  :root {
+    --global-theme-color: #8b6b2b;
+    --global-hover-color: #70551f;
+    --global-code-bg-color: rgba(139, 107, 43, 0.06);
+    --phd-notice-bg-color: #fbf8ef;
+  }
+  html[data-theme="dark"] {
+    --global-theme-color: #d4bc80;
+    --global-hover-color: #ead5a0;
+    --global-hover-text-color: #1c1c1d;
+    --global-code-bg-color: #302a20;
+    --phd-notice-bg-color: #29251d;
+  }
+  .post [aria-label="PhD opportunities"] {
+    background-color: var(--phd-notice-bg-color);
+  }
   .post .profile {
     width: 220px;
     margin-left: 1.5rem;
