@@ -8,10 +8,12 @@ profile:
   image: Austin.jpg
   image_circular: false
   more_info: >
-    <nav aria-label="Contact and academic profiles" style="display: flex; justify-content: center; align-items: center; gap: 0.75rem; margin-top: 0.5rem; font-size: 1.5rem; line-height: 1;">
-      <a href="mailto:yuyangc125@gmail.com" aria-label="Email" title="Email" style="display: inline-flex; justify-content: center; align-items: center; width: 40px; height: 40px; color: var(--global-text-color);"><i class="fa-solid fa-envelope" aria-hidden="true"></i></a>
-      <a href="https://github.com/Austinggg" aria-label="GitHub" title="GitHub" style="display: inline-flex; justify-content: center; align-items: center; width: 40px; height: 40px; color: var(--global-text-color);"><i class="fa-brands fa-github" aria-hidden="true"></i></a>
-      <a href="https://scholar.google.com/citations?user=Az4EUpUAAAAJ" aria-label="Google Scholar" title="Google Scholar" style="display: inline-flex; justify-content: center; align-items: center; width: 40px; height: 40px; color: var(--global-text-color);"><i class="ai ai-google-scholar" aria-hidden="true"></i></a>
+    <nav class="profile-links" aria-label="Contact and academic profiles">
+      <a href="mailto:yuyangc125@gmail.com">Email</a>
+      <span aria-hidden="true">/</span>
+      <a href="https://github.com/Austinggg">GitHub</a>
+      <span aria-hidden="true">/</span>
+      <a href="https://scholar.google.com/citations?user=Az4EUpUAAAAJ">Google Scholar</a>
     </nav>
 selected_papers: false
 social: false
@@ -21,12 +23,40 @@ latest_posts:
   enabled: false
 ---
 
+<style>
+  .post .profile {
+    width: 220px;
+    margin-left: 1.5rem;
+  }
+  .post .profile .more-info {
+    font-family: inherit;
+  }
+  .profile-links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.35rem;
+    font-size: 0.875rem;
+    line-height: 1.6;
+    white-space: nowrap;
+  }
+  @media (max-width: 575px) {
+    .post .profile {
+      float: none !important;
+      margin: 0 auto 1.5rem;
+    }
+    .post .profile img {
+      display: block;
+      width: 180px;
+      margin: 0 auto;
+    }
+  }
+</style>
+
 <div class="card p-3 mb-4" role="note" aria-label="PhD opportunities" style="border-left: 4px solid var(--global-theme-color); overflow: hidden;">
   <strong style="color: var(--global-theme-color); font-size: 1.15rem;">I am seeking PhD opportunities starting in Fall 2027.</strong>
 </div>
 
-I study **LLM-based agents** that assist humans with knowledge-intensive tasks. My research focuses on **agent workflows** and **human–AI alignment**, with the goal of advancing scientific automation through effective human–AI interaction.
+Hi! 👋 My name is Yuyang Cheng. I am currently a Research Assistant at **The Hong Kong University of Science and Technology (Guangzhou)**, advised by [Prof. Menglin Yang](https://yangmenglinsite.github.io/) in [DIGAI Lab](https://github.com/DIGAILab). I also collaborate closely with [Prof. Songlin Xu](https://songlinxu.com) at The Hong Kong Polytechnic University (PolyU). I received my bachelor's degree in Cybersecurity from **Sichuan University (SCU)**.
 
-I am currently a Research Assistant at **The Hong Kong University of Science and Technology (Guangzhou)**, advised by [Prof. Menglin Yang](https://yangmenglinsite.github.io/) in [DIGAI Lab](https://github.com/DIGAILab). I also collaborate closely with [Prof. Songlin Xu](https://songlinxu.com) at The Hong Kong Polytechnic University.
-
-I received my bachelor's degree in **Cybersecurity** from **Sichuan University** in June 2026.
+My research interests center on **large language models (LLMs)**, **AI agents**, and their applications. My current work focuses on **AI security**, **AI memory**, and **agent workflows**. My goal is to build AI agents that benefit society and help make the world a better place.
