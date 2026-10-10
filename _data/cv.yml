@@ -1,11 +1,11 @@
 cv:
   name: Yuyang Cheng
-  label: Research Assistant
+  label: Research Assistant, HKUST (Guangzhou)
   email: yuyangc125@gmail.com
-  location: Hong Kong
   image: ""
   summary: I study LLM-based agents for knowledge-intensive tasks, focusing on agent
-    workflows and human–AI alignment.
+    workflows and human–AI alignment. I collaborate closely with Prof. Songlin Xu
+    at The Hong Kong Polytechnic University.
   social_networks:
     - network: GitHub
       username: Austinggg
@@ -21,27 +21,11 @@ cv:
           - "GPA: 3.6/4.0"
           - "IELTS: 7.0"
     Experience:
-      - company: The Hong Kong Polytechnic University
-        position: Research Assistant
-        location: Hong Kong, China
-        start_date: 2026-10
-        end_date: present
-        summary: Advised by Prof. Songlin Xu.
-        highlights:
-          - Human–AI alignment; AutoResearch.
-      - company: The Hong Kong Polytechnic University
-        position: Research Intern (Remote)
-        location: Remote
-        start_date: 2026-03
-        end_date: present
-        summary: Advised by Prof. Songlin Xu.
-        highlights:
-          - Human–AI alignment; AutoResearch.
       - company: The Hong Kong University of Science and Technology (Guangzhou)
         position: Research Assistant
         location: Guangzhou, China
         start_date: 2026-06
-        end_date: 2026-10
+        end_date: present
         summary: Advised by Prof. Menglin Yang in DIGAI Lab.
         highlights:
           - Agent workflows; AutoResearch.
@@ -58,7 +42,7 @@ cv:
         location: Chengdu, China
         start_date: 2024-09
         end_date: 2026-03
-        summary: Advised by Prof. Yong Zhao.
+        summary: Advised by <a href="https://scholar.google.com/citations?user=3mixb94AAAAJ">Prof. Yong Zhao</a>.
         highlights:
           - Agent workflows; recommendation algorithms; blockchain.
     Interests:
