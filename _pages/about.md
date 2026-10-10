@@ -29,4 +29,4 @@ I study **LLM-based agents** that assist humans with knowledge-intensive tasks. 
 
 I am currently a Research Assistant at **The Hong Kong University of Science and Technology (Guangzhou)**, advised by [Prof. Menglin Yang](https://yangmenglinsite.github.io/) in DIGAI Lab. I also collaborate closely with [Prof. Songlin Xu](https://songlinxu.com) at The Hong Kong Polytechnic University.
 
-I received my bachelor's degree in **Cybersecurity** from **Sichuan University** in June 2026, where I also worked with [Prof. Yong Zhao](https://scholar.google.com/citations?user=3mixb94AAAAJ) as an undergraduate researcher.
+I received my bachelor's degree in **Cybersecurity** from **Sichuan University** in June 2026.
