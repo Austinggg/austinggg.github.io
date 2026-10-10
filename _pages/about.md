@@ -32,8 +32,6 @@ I received my bachelor's degree in **Cybersecurity** from **Sichuan University**
 - **Human–AI interaction and alignment** — building agents that work effectively with people.
 - **Scientific automation** — supporting research through human–AI collaboration.
 
-[Curriculum vitae]({{ '/cv/' | relative_url }})
-
 ## Get in touch
 
 For research discussions, please contact me at [yuyangc125@gmail.com](mailto:yuyangc125@gmail.com).

@@ -1,6 +1,6 @@
 # Yuyang Cheng — Academic Homepage
 
-An English academic website built from [al-folio](https://github.com/alshedivat/al-folio), with About and CV pages. Publications, search, and separate Research and Experience pages are intentionally omitted.
+An English academic website built from [al-folio](https://github.com/alshedivat/al-folio), with an About page. Publications, search, and separate CV, Research, and Experience pages are intentionally omitted.
 
 ## Edit content
 
@@ -9,7 +9,7 @@ An English academic website built from [al-folio](https://github.com/alshedivat/
 | Biography and homepage | `_pages/about.md`   |
 | Research interests     | `_pages/about.md`   |
 | Research experience    | `_data/cv.yml`      |
-| Online CV              | `_data/cv.yml`      |
+| Archived CV data       | `_data/cv.yml`      |
 | Social profile links   | `_data/socials.yml` |
 | Site metadata and URL  | `_config.yml`       |
 
