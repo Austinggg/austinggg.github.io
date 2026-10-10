@@ -9,11 +9,12 @@ profile:
   image_circular: false
   more_info: >
     <nav class="profile-links" aria-label="Contact and academic profiles">
-      <a href="mailto:yuyangc125@gmail.com">Email</a>
-      <span aria-hidden="true">/</span>
-      <a href="https://github.com/Austinggg">GitHub</a>
-      <span aria-hidden="true">/</span>
-      <a href="https://scholar.google.com/citations?user=Az4EUpUAAAAJ">Google Scholar</a>
+      <div>Email: <a href="mailto:yuyangc125@gmail.com">yuyangc125@gmail.com</a></div>
+      <div class="profile-external-links">
+        <a href="https://github.com/Austinggg">GitHub</a>
+        <span aria-hidden="true">/</span>
+        <a href="https://scholar.google.com/citations?user=Az4EUpUAAAAJ">Google Scholar</a>
+      </div>
     </nav>
 selected_papers: false
 social: false
@@ -33,12 +34,18 @@ latest_posts:
   }
   .profile-links {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
-    gap: 0.35rem;
+    gap: 0.1rem;
     font-size: 0.875rem;
     line-height: 1.6;
     white-space: nowrap;
+  }
+  .profile-external-links {
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
   }
   @media (max-width: 575px) {
     .post .profile {
