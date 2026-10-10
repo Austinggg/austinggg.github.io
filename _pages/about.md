@@ -27,6 +27,6 @@ latest_posts:
 
 I study **LLM-based agents** that assist humans with knowledge-intensive tasks. My research focuses on **agent workflows** and **human–AI alignment**, with the goal of advancing scientific automation through effective human–AI interaction.
 
-I am currently a Research Assistant at **The Hong Kong University of Science and Technology (Guangzhou)**, advised by [Prof. Menglin Yang](https://yangmenglinsite.github.io/) in DIGAI Lab. I also collaborate closely with [Prof. Songlin Xu](https://songlinxu.com) at The Hong Kong Polytechnic University.
+I am currently a Research Assistant at **The Hong Kong University of Science and Technology (Guangzhou)**, advised by [Prof. Menglin Yang](https://yangmenglinsite.github.io/) in [DIGAI Lab](https://github.com/DIGAILab). I also collaborate closely with [Prof. Songlin Xu](https://songlinxu.com) at The Hong Kong Polytechnic University.
 
 I received my bachelor's degree in **Cybersecurity** from **Sichuan University** in June 2026.
