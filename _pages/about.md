@@ -23,7 +23,6 @@ latest_posts:
 
 <div class="card p-3 mb-4" role="note" aria-label="PhD opportunities" style="border-left: 4px solid var(--global-theme-color); overflow: hidden;">
   <strong style="color: var(--global-theme-color); font-size: 1.15rem;">I am seeking PhD opportunities starting in Fall 2027.</strong>
-  <p style="margin: 0.5rem 0 0;">Please feel free to <a href="mailto:yuyangc125@gmail.com">contact me</a>.</p>
 </div>
 
 I study **LLM-based agents** that assist humans with knowledge-intensive tasks. My research focuses on **agent workflows** and **human–AI alignment**, with the goal of advancing scientific automation through effective human–AI interaction.
