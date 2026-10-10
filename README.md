@@ -7,10 +7,10 @@ An English academic website built from [al-folio](https://github.com/alshedivat/
 | Content                | File                |
 | ---------------------- | ------------------- |
 | Biography and homepage | `_pages/about.md`   |
-| Research interests     | `_pages/about.md`   |
 | Research experience    | `_data/cv.yml`      |
 | Archived CV data       | `_data/cv.yml`      |
-| Social profile links   | `_data/socials.yml` |
+| Icons below the avatar | `_pages/about.md`   |
+| Social metadata        | `_data/socials.yml` |
 | Site metadata and URL  | `_config.yml`       |
 
 Research appointments are maintained in `cv.yml`. The current role is Research Assistant at HKUST (Guangzhou), starting in June 2026. Work with Prof. Songlin Xu at PolyU is described as a close collaboration, with no PolyU employment or internship listed. These details follow the site owner's latest corrections, which take precedence over the older source resume. The homepage profile image and Google Scholar profile are supplied by the site owner. The original CV PDF is not published because it contains publications.
