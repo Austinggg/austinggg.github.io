@@ -14,6 +14,8 @@ profile:
         <a href="https://github.com/Austinggg">GitHub</a>
         <span aria-hidden="true">/</span>
         <a href="https://scholar.google.com/citations?user=Az4EUpUAAAAJ">Google Scholar</a>
+        <span aria-hidden="true">/</span>
+        <a href="/assets/pdf/YuyangCheng_CV.pdf" target="_blank" rel="noopener" title="Curriculum vitae (PDF)">CV</a>
       </div>
     </nav>
 selected_papers: false
