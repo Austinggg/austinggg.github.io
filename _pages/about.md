@@ -84,4 +84,4 @@ latest_posts:
 
 Hi! 👋 My name is Yuyang Cheng. I am currently a Research Assistant at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), advised by [Prof. Menglin Yang](https://yangmenglinsite.github.io/) in [DIGAI Lab](https://github.com/DIGAILab). I also collaborate closely with [Prof. Songlin Xu](https://songlinxu.com) at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/). Previously, I completed my undergraduate studies at [Sichuan University](https://www.scu.edu.cn/).
 
-My research interests center on **large language models (LLMs)**, **AI agents**, and their applications. My current work focuses on **AI security**, **AI memory**, and **agent workflows**. My goal is to build AI agents that benefit society and help make the world a better place.
+My research interests center on developing trustworthy, human-centered AI systems that enable safe and meaningful human–AI collaboration. More broadly, I hope to leverage these systems to augment human capabilities, address real-world challenges, and advance scientific discovery.

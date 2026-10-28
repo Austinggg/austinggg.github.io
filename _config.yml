@@ -9,10 +9,10 @@ last_name: Cheng
 contact_note: >
   Email is the best way to reach me.
 description: >
-  Yuyang Cheng — research on large language models, AI agents, AI security, AI memory, and agent workflows.
+  Yuyang Cheng — research on trustworthy, human-centered AI and safe, meaningful human–AI collaboration.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/">Jekyll</a> and <a href="https://github.com/alshedivat/al-folio">al-folio</a>.
-keywords: large language models, AI agents, AI security, AI memory, agent workflows
+keywords: trustworthy AI, human-centered AI, human-AI collaboration, scientific discovery
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: YC
 apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.
